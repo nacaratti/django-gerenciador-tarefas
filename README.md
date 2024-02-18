@@ -1,5 +1,5 @@
 # django-gerenciador-tarefas
-Projeto básico para um gerenciador de tarefas
+### Projeto básico para um gerenciador de tarefas
 
 ### Cloning the repository
 
@@ -26,6 +26,8 @@ python -m venv .venv
 windows
 ```bash
 .venv\scripts\activate
+
+```
 
 --> Install the requirements :
 ```bash
