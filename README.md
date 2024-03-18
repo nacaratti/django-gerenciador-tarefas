@@ -25,13 +25,19 @@ python -m venv .venv
 --> Activate the virtual environment : <br><br>
 windows
 ```bash
-.venv\scripts\activate
+.venv\Scripts\activate
 
 ```
 
 --> Install the requirements :
 ```bash
 pip install -r requirements.txt
+
+```
+
+--> Create Migrations
+```bash
+python manage.py makemigrations
 
 ```
 
